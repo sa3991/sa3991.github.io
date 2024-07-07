@@ -1,1 +1,1 @@
-This repo hosts the code for a web page analyzing AIPAC's campaign finance data. 
+This repo hosts the code for a website with my personal projects. 
